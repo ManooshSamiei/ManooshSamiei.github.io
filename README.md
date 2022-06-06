@@ -8,7 +8,7 @@ Previously, I was an electrical engineering MSc student at McGill University sup
 
 Broadly, my research interests lie at the intersection of human vision, robotics, computer vision and machine learning. At McGill and Algolux, I have worked on image segmentation, object detection and saliency prediction. I did my undergraduate at Shahid Beheshti University on electrical engineering with a focus on telecommunications and signal processing. In my undergraduate, I worked on multiple robots and learned about electronic circuits troubleshooting and assembly. Besides AI and programming, I also enjoy hardware assembly and electronic circuitry.
 
-[Email](manoosh.samiei@mail.mcgill.ca)
-[Github](https://github.com/ManooshSamiei)
-[Linkedin](https://www.linkedin.com/in/manoosh-samiei-2386a1190)
-[Twitter](https://twitter.com/SamieiManoosh)
+[Email](manoosh.samiei@mail.mcgill.ca) /
+ [Github](https://github.com/ManooshSamiei) /
+ [Linkedin](https://www.linkedin.com/in/manoosh-samiei-2386a1190) /
+ [Twitter](https://twitter.com/SamieiManoosh)
