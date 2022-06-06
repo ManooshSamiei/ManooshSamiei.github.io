@@ -1,6 +1,6 @@
 ## Welcome to My Homepage!
 
-<img src="./images/github_profile_.jpg" width="150"/>
+<img src="./images/github_profile_2.jpg" width="150"/>
 
 You can use the [editor on GitHub](https://github.com/ManooshSamiei/ManooshSamiei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
