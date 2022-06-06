@@ -1,4 +1,4 @@
-## Welcome to My Homepage!
+## Manoosh Samiei
 
 <img src="./images/github_profile_3.jpg" width="250"/>
 
