@@ -10,5 +10,5 @@ Broadly, my research interests lie at the intersection of human vision, robotics
 
 [Email](manoosh.samiei@mail.mcgill.ca)
 [Github](https://github.com/ManooshSamiei)
-[Linkedin] (https://www.linkedin.com/in/manoosh-samiei-2386a1190/)
+[Linkedin](https://www.linkedin.com/in/manoosh-samiei-2386a1190)
 [Twitter](https://twitter.com/SamieiManoosh)
