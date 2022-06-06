@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to My Homepage!
+
+<img src="./images/Model.png" width="800"/>
 
 You can use the [editor on GitHub](https://github.com/ManooshSamiei/ManooshSamiei.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
