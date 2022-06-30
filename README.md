@@ -1,6 +1,6 @@
 ## Manoosh Samiei
 
-<img src="./images/unnamed_2.jpg" width="250"/>
+<img src="./images/unnamed_2.jpg" width="450"/>
 
 I am an automotive computer vision researcher at Algolux. I develop computer vision models that can percieve the environment for application in autonomous vehicles.
 
